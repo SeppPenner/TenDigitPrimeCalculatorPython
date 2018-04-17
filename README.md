@@ -1,6 +1,6 @@
 # TenDigitPrimeCalculatorPython
-TenDigitPrimeCalculatorPython is a project to calculate the [Google 10 digit prime number](https://mkaz.tech/math/google-billboard-problems/) from the Euler number in Python.
-TenDigitPrimeCalculatorPython is a project to calculate the [Google billboard](https://mkaz.tech/math/google-billboard-problems/) problem in Python.
+TenDigitPrimeCalculatorPython is a project to calculate the [Google 10 digit prime number](https://mkaz.blog/math/google-billboard-problems/) from the Euler number in Python.
+TenDigitPrimeCalculatorPython is a project to calculate the [Google billboard](https://mkaz.blog/math/google-billboard-problems/) problem in Python.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/v5c0tikoyxfujd33?svg=true)](https://ci.appveyor.com/project/SeppPenner/tendigitprimecalculatorpython)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TenDigitPrimeCalculatorPython.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorPython/issues)
