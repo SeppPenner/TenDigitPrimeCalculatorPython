@@ -1,7 +1,8 @@
 # TenDigitPrimeCalculatorPython
+
 TenDigitPrimeCalculatorPython is a project to calculate the [Google 10 digit prime number](https://mkaz.blog/math/google-billboard-problems/) from the Euler number in Python.
 TenDigitPrimeCalculatorPython is a project to calculate the [Google billboard](https://mkaz.blog/math/google-billboard-problems/) problem in Python.
-The project was written and tested in Python 3.7.4.
+The project was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/v5c0tikoyxfujd33?svg=true)](https://ci.appveyor.com/project/SeppPenner/tendigitprimecalculatorpython)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/TenDigitPrimeCalculatorPython.svg)](https://github.com/SeppPenner/TenDigitPrimeCalculatorPython/issues)
@@ -19,5 +20,4 @@ http://franzhuber23.blogspot.de/2017/10/google-10-digit-prime-in-eulers-number.h
 Change history
 --------------
 
-* **Version 1.0.0.1 (2019-09-29)** : Updated python version.
-* **Version 1.0.0.0 (2017-11-27)** : 1.0 release.
+See the [Changelog](https://github.com/SeppPenner/TenDigitPrimeCalculatorPython/blob/master/Changelog.md).
